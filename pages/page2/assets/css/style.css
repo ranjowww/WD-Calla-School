@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+}
+
+
+/*Custom Stying */
+
+.logo{
+    max-width: 4rem;
+    max-height: 4rem;
+    margin-left: 10px;
+}
+
+.schoolname {
+    font-size: clamp(1.5rem, 2.5vw, 2rem);
+    font-family: 'Times New Roman', Times, serif;
+    color: #000057;
+    text-decoration: none;
+}
+
+.navbar-toggler{
+    color:#ffc107;
+}
+
+.navbar-toggler.icon{
+    color: #ffc107;
+}
+
+.btn.btn-outline-success{
+    color: #000057;
+    border-color: #000057;
+}
+
+/* Offcanvas Styling */
+
+.offcanvas-header{
+    background-color: #ffc107;;
+}
+
+.offcanvas-title {
+    color: #000057;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.7rem;
+    padding-top: 10px;
+}
+
+.offcanvas-body {
+    background-color: #ffc107;;
+}
+
+.nav-link.active {
+    padding: 5px;
+    font-size: 1rem;
+}
+
+/* Elementary */
+.cube {
+  background-color:#ffc107;
+  font-size: 1rem;
+  margin-top: 1rem;
+  max-height: 20%;
+  max-width: 950px;
+  height: 4.5rem;
+}
+
+.elem {
+  color:#000057;
+  font-weight: bold;
+  max-height: 100%;
+  text-align: center;
+  line-height: 2.3;
+  font-size:  clamp(1rem, 5vw, 2rem);
+}
+
+.junior {
+  color:#000057;
+  font-weight: bold;
+  max-height: 100%;
+  text-align: center;
+  line-height: 2.3;
+  font-size:  clamp(1rem, 5vw, 2rem);
+}
+
+.senior {
+  color:#000057;
+  font-weight: bold;
+  max-height: 100%;
+  text-align: center;
+  line-height: 2.3;
+  font-size:  clamp(1.2rem, 5vw, 2rem);
+}
+.college {
+  color:#000057;
+  font-weight: bold;
+  max-height: 100%;
+  text-align: center;
+  line-height: 2.3;
+  font-size:  clamp(1rem, 5vw, 2rem);
+}
+
+.program {
+  text-align:center;
+  font-size: 1.8rem;
+  margin-top: 1rem;
+  color: #000057;
+}
+
+
+/*carousel*/
+/* Carousel Styling */
+.carousel {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.carousel img {
+  max-height: 1000px;
+  padding-top: 1rem;
+  object-fit: cover;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(1);
+}
+
+@media (max-width: 768px) {
+  .carousel img {
+    max-height: 300px;
+  }
+}
+
+/*Elem Text*/
+.elem-text {
+  text-align:justify;
+  justify-content: center;
+  max-width: 950px;
+  margin: 0 auto;
+  font-size:  clamp(0.2rem, 4vw, 1rem);
+}
+
+.college-text {
+  text-align:justify;
+  font-size: clamp(0.2rem, 4vw, 1.5rem);
+  justify-content: center;
+  max-width: 950px;
+  margin: 0 auto;
+  color: #000057;
+  font-weight: bold;
+}
+
+.shs-text {
+  text-align:justify;
+  font-size: clamp(0.2rem, 4vw, 1.5rem);
+  justify-content: center;
+  max-width: 950px;
+  margin: 0 auto;
+  color: #000057;
+  font-weight: bold;
+}
+
+
+
+
+/*footer*/
+
+.footer {
+    background-color: #ffc107;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+
+}
+
+.footercontainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+@media (max-width: 576px) {
+    .footer {
+      padding: 15px 0;
+    }
+
+    .footercontainer {
+      padding: 0 10px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .footercontainer {
+      padding: 0 20px;
+    }
+  }
+
+  @media (min-width: 769px) {
+    .footercontainer {
+      padding: 0 30px;
+    }
+  }
+
+/* Contact Us */
+
+/* Contact Section Styling */
+.contact-section {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+  }
+
+  .contact-section h2 {
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .contact-section h3 {
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: #000057;
+  }
+
+.contact-section .col-md-6 p {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+  }
+
+.contact-section .social-link {
+    margin: 0 10px;
+}
+
+.FB-social-icon {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s ease;
+}
+
+.IG-social-icon {
+    width: 50px;
+    height: 40px;
+    transition: transform 0.3s ease;
+}
+
+.contact-section .social-icon:hover {
+    transform: scale(1.1);
+}
+
+  /* Form styling */
+.contact-form .form-label {
+    font-weight: bold;
+}
+
+.contact-form .form-control {
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 1rem;
+}
+
+.contact-form .btn {
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 1.1rem;
+}
+
+.contact-form .btn-primary {
+    background-color:#000057;
+    border-color:#000057;
+}
+
+
+@media (max-width: 768px) {
+    .contact-section h2 {
+      font-size: 1.6rem;
+    }
+
+    .contact-section .social-icon {
+      width: 25px;
+      height: 25px;
+    }
+
+.contact-form .form-control {
+      font-size: 0.9rem;
+    }
+
+    .contact-form .btn {
+      font-size: 1rem;
+    }
+  }
