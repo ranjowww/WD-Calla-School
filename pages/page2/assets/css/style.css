@@ -127,7 +127,10 @@ body {
   object-fit: cover;
 }
 
-.carousel-control-prev-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+
 .carousel-control-next-icon {
   filter: invert(1);
 }
