@@ -22,6 +22,8 @@
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
+[![wakatime](https://wakatime.com/badge/user/2f0721b8-c310-4ff2-aaf3-092cc8bb6980/project/90e3944d-ba0e-4177-a427-f54b002e045d.svg)](https://wakatime.com/badge/user/2f0721b8-c310-4ff2-aaf3-092cc8bb6980/project/90e3944d-ba0e-4177-a427-f54b002e045d)
+
 ---
 
 <br />
