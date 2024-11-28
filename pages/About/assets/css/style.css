@@ -201,6 +201,11 @@ body {
     color: #000057;
 }
 
+.contact-section h4 {
+  font-weight: bold;
+
+}
+
 .contact-section .col-md-6 p {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.1rem;

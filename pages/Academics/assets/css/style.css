@@ -111,6 +111,7 @@ body {
   font-size: 1.8rem;
   margin-top: 1rem;
   color: #000057;
+  font-weight: bold;
 }
 
 
@@ -217,18 +218,23 @@ body {
 .contact-section {
     background-color: #f8f9fa;
     padding: 20px 0;
-  }
+}
 
   .contact-section h2 {
     font-size: 2rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
+}
 
   .contact-section h3 {
     font-size: 2rem;
     font-family: 'Times New Roman', Times, serif;
     color: #000057;
-  }
+}
+
+.contact-section h4 {
+  font-weight: bold;
+
+}
 
 .contact-section .col-md-6 p {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
