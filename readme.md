@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  José Rizal University, also referred to by its acronym JRU, is a private non-sectarian, non-stock coeducational basic and higher education institution located in Mandaluyong, Metro Manila, Philippines.
+  José Rizal University, also referred to by its acronym JRU, is a private non-sectarian, non-stock coeducational basic and higher education institution located in Mandaluyong, Metro Manila, Philippines. José Rizal University (JRU) prides itself for being among the most inexpensive private universities in the country that offers quality education. It is a non-stock, non-profit, non-sectarian private educational institution founded in 1919 by Don Vicente Fabella based on the ideal of good education available to all.
 </div>
 
 <br />
@@ -57,13 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project - This is our final project in web design labaratory, we tasked to create a website with a given theme each group. The theme of our group is a School website.
-- Whats the purpose - To create a school website whether it's existing or made up.
-- What are key components - MultiPage Website
-- What technology used and how it is used - HTML, CSS, JavaScript
+This is our final project in web design labaratory, we're tasked to create a website with a given theme each group and the theme of our group is a School Website. I used Jose Rizal University as the school I want to redesign their existing website. The purpose of this is to create a school website whether it's existing or made up. This is a MultiPage Website and that's the key component of this project with the used of the technology of HTML, CSS, and JavaScript
 
 ### Key Components
 <!-- TODO: List of Key Components -->
