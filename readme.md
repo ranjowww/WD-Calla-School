@@ -65,8 +65,6 @@ This is our final project in web design labaratory, we're tasked to create a web
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -112,4 +110,5 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
+|-|-|-|
 |JOSÉ RIZAL UNIVERSITY | Chosen school to redesign | https://jru.edu/|
